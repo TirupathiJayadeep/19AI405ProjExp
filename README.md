@@ -17,7 +17,7 @@ To implement a Sudoku solver using the backtracking algorithm to find the soluti
 </ol>
 
 ## Program:
-
+```
 M = 9
 def puzzle(a):
     for i in range(M):
@@ -77,7 +77,7 @@ if (Suduko(grid, 0, 0)):
 else:
     print("Solution does not exist:")
 
-
+```
 ## Output:
 <img width="165" height="274" alt="image" src="https://github.com/user-attachments/assets/39f63f14-30b4-4ddf-aa18-f117979f6ccd" />
 
